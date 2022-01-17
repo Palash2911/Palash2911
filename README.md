@@ -9,7 +9,7 @@
  ---
  
 - 👨‍🎓Hey there, I am Palash Rambhia, currently embarking on my engineering journey from D.Y. Patil College Of Engineering, Akurdi, Pune.<br/>
-- 💻I am a **Android developer**, **Competitive Programmer** as well as 📱**Web Developer Enthusiast**<br/>
+- 💻I am an **Android developer**, **Competitive Programmer** as well as 📱**Web Developer Enthusiast**<br/>
 - My Primary Coding language is **C++**.<br/>
 - 3⭐ coder on **CodeChef**<br/>
 - 5⭐ in Problem Solving on **Hackerrank**<br/>
