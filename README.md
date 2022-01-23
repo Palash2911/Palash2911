@@ -1,5 +1,5 @@
 <h1>Hi there, I'm <a target="_blank" href="https://nishant-bhosale.netlify.app/">Palash Rambhia</a><img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h1></h1>
-<h1>I am an Andorid Developer</h1>
+<h1>I am an Andorid Developer 📱📱</h1>
 
 ---
 
