@@ -16,7 +16,7 @@
 - I love❤️ to make **exciting projects**.<br/>
 - I really enjoy learning🚀 new technologies like **Kotlin**.<br/>
 - 🔭 I’m currently interning at DevCorps IT and Solutions as a Web Developer Intern<br/>
-- 🌱 finally I'm currently learning about Databases like **Firebase and MySQL**<br/>
+- 🌱 finally I'm currently learning about Databases like Firebase and MySQL<br/>
 
 <h1>Technical Skills 🛠</h1>
 
