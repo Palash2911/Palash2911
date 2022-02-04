@@ -26,15 +26,16 @@
 <img alt="C++" src="https://img.shields.io/badge/c++-%23ED8B00.svg?&style=for-the-badge&logo=C++&logoColor=red" />
 <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
 <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />
+<img alt="ReactJs" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
 <img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-orange?&style=for-the-badge&logo=kotlin&logoColor=white" />
-<img alt="Firebase" src="https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
+<img alt="Firebase" src="https://img.shields.io/badge/Firebase-ffdd00?style=for-the-badge&logo=firebase&logoColor=orange" />
 <img alt="My SQL" src="https://img.shields.io/badge/my_sql-ffca28?style=for-the-badge&logo= mysql&logoColor=black" />
 <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img alt="Google Cloud" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
 <img alt="VS Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-<img alt="IntelliJIDEA" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
-<img alt="Android Studio" src="https://img.shields.io/badge/Android_Studio-20232A?style=for-the-badge&logo=androidstudio&logoColor=61DAFB" />
+<img alt="IntelliJIDEA" src="https://img.shields.io/badge/IntelliJIDEA-4361ee.svg?style=for-the-badge&logo=intellij-idea&logoColor=f72585" />
+<img alt="Android Studio" src="https://img.shields.io/badge/Android_Studio-white?style=for-the-badge&logo=androidstudio&logoColor=0077b6" />
 </p>
 
 
