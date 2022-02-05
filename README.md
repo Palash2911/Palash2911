@@ -3,8 +3,9 @@
 
 ---
 
-|<img src="https://github-readme-stats.vercel.app/api?username=palash2911&show_icons=true&theme=cobalt"></img> |<img src="https://github-readme-streak-stats.herokuapp.com/?&user=Palash2911"/>|
-|---|---|
+<img src="https://github-readme-stats.vercel.app/api?username=palash2911&show_icons=true&theme=algolia"></img> 
+<img src="https://github-readme-streak-stats.herokuapp.com/?&user=Palash2911"/>
+
  
  ---
  
@@ -54,13 +55,13 @@
 </a>
 </div>
 
-### Recent Projects 👨‍💻
+### My Projects 👨‍💻
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Palash2911&repo=My-Website-&show_icons=true&theme=monokai"> 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Palash2911&repo=Oasis---Music-App-&show_icons=true&theme=monokai"> 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Palash2911&repo=Android-Study-Jams&show_icons=true&theme=great-gatsby"> 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Palash2911&repo=UN-Toxic&show_icons=true&theme=great-gatsby">                                                                                                                                          
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Palash2911&repo=My-Website-&show_icons=true&theme=nightowl"> 
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Palash2911&repo=Oasis---Music-App-&show_icons=true&theme=dark"> 
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Palash2911&repo=React-Text-Modifier&show_icons=true&theme=great-gatsby"> 
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Palash2911&repo=UN-Toxic&show_icons=true&theme=blue-green">                                                                                                                                          
 </div>
  
 <div align="center">
