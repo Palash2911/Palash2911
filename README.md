@@ -54,6 +54,10 @@
 <a href="https://www.instagram.com/palash_2911/" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
+
+<a href="mailto:palashrambhia2@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 </div>
 
 ### Recent Projects 👨‍💻💻
