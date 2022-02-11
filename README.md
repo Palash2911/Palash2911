@@ -20,7 +20,7 @@
 - 🔭 I’m currently interning at DevCorps IT and Solutions as a **Web Developer Intern**<br/>
 - 🌱 finally I'm currently learning about Databases like **Firebase** and **MySQL**<br/>
 
-<h1>Technical Skills 🛠</h1>
+<h1>My Skills 🛠</h1>
 
 <p align="center"> 
 <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
