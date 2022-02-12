@@ -3,7 +3,7 @@
 
 ---
 
-|<img src="https://github-readme-stats.vercel.app/api?username=palash2911&show_icons=true&theme=algolia"></img>|<img src="https://github-readme-streak-stats.herokuapp.com/?&user=Palash2911"/>|
+|<img src="https://github-readme-stats.vercel.app/api?username=palash2911&border_radius=40%&show_icons=true&hide_border=true&theme=algolia">|<img src="https://github-readme-streak-stats.herokuapp.com/?&user=palash2911">|
 |---|---|
 
 
