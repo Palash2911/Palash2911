@@ -1,7 +1,10 @@
 <h1>Hey there, I'm <a target="_blank" href="https://palash2911.github.io/All-About-Me/">Palash Rambhia</a><img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h1></h1>
 <h1>I am an Andorid Developer📱📱</h1>
 
-<img src="https://github-readme-stats.vercel.app/api?username=palash2911&border_radius=40%&show_icons=true&hide_border=true&theme=algolia"><img src="https://github-readme-streak-stats.herokuapp.com/?&user=palash2911">
+---
+
+|<img src="https://github-readme-stats.vercel.app/api?username=palash2911&border_radius=40%&show_icons=true&hide_border=true&theme=algolia">|<img src="https://github-readme-streak-stats.herokuapp.com/?&user=palash2911">|
+|---|---|
 
 
  
