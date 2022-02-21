@@ -1,5 +1,5 @@
 <h1>Hey there, I'm <a target="_blank" href="https://palash2911.github.io/All-About-Me/">Palash Rambhia</a><img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h1></h1>
-<h1>I am an Android Developer 📱📱</h1>
+<h1>I am an Android Developer📱📱</h1>
 
 ---
 
