@@ -21,11 +21,11 @@
 - 👨‍🎓Hey there, I am Palash Rambhia, currently embarking on my engineering journey from D.Y. Patil College Of Engineering, Akurdi, Pune.<br/>
 - 💻I am an **Android developer**, **Competitive Programmer** as well as 📱**Web Developer Enthusiast**<br/>
 - I love to code in **C++**.<br/>
-- I am a 3⭐ coder on <img alt="Code Chef" src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white"/><br/>
+- I am a 2⭐ coder on <img alt="Code Chef" src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white"/><br/>
 - I am also a 5⭐ in Problem Solving on **Hackerrank**<br/>
 - I love❤️ to make **exciting projects**.<br/>
-- I really enjoy learning🚀 new technologies like **Vue Js and React Native**.<br/>
-- 🔭 I’m currently interning at DevCorps IT and Solutions as a **Web Developer Intern**<br/>
+- I really enjoy learning🚀 new technologies like **Flutter, Kotlin and React JS**.<br/>
+- 🔭 I was a **SDE Intern** at DevCorps IT and Solutions<br/>
 - 🌱 Finally I'm currently learning about Databases like **Firebase** and **MySQL**<br/>
 
 <h1>My Skills 🛠</h1>
