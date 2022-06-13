@@ -24,7 +24,7 @@
 - I am a 2⭐ coder on <img alt="Code Chef" src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white"/><br/>
 - I am also a 5⭐ in Problem Solving on **Hackerrank**<br/>
 - I love❤️ to make **exciting projects**.<br/>
-- I really enjoy learning🚀 new technologies like **Flutter, Kotlin and React JS**.<br/>
+- I really enjoy learning🚀 new technologies like **Kotlin and React JS**.<br/>
 - 🔭 I was a **SDE Intern** at DevCorps IT and Solutions<br/>
 - 🌱 Finally I'm currently learning about Databases like **Firebase** and **MySQL**<br/>
 
