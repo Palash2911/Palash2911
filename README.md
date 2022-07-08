@@ -26,7 +26,7 @@
 - I love❤️ to make **exciting projects**.<br/>
 - I really enjoy learning🚀 new technologies like **Kotlin and React JS**.<br/>
 - 🔭 I was a **SDE Intern** at DevCorps IT and Solutions<br/>
-- 🌱 Finally I'm currently learning about Databases like **Firebase** and **MySQL**<br/>
+- 🌱 Finally I'm currently learning Cross Platform Frameworks like **Flutter**<br/>
 
 <h1>My Skills 🛠</h1>
 
