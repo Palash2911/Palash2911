@@ -42,6 +42,7 @@
 <img alt="VueJs" src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" />
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
 <img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-orange?&style=for-the-badge&logo=kotlin&logoColor=white" />
+<img alt="Flutter" src="https://img.shields.io/badge/-Flutter-white?&style=for-the-badge&logo=flutter&logoColor=blue" />
 <img alt="Firebase" src="https://img.shields.io/badge/Firebase-ffdd00?style=for-the-badge&logo=firebase&logoColor=orange" />
 <img alt="My SQL" src="https://img.shields.io/badge/mysql-00000F.svg?style=for-the-badge&logo=mysql&logoColor=white" />
 <img alt="Git" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
