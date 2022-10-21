@@ -75,7 +75,7 @@
 ### Recent Projects 👨‍💻💻
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Palash2911&repo=Chatrio&show_icons=true&theme=nightowl"> 
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Palash2911&repo=Athena&show_icons=true&theme=nightowl"> 
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Palash2911&repo=MERN_iNoted&show_icons=true&theme=dark"> 
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Palash2911&repo=Propmart_Final&show_icons=true&theme=great-gatsby"> 
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Palash2911&repo=UN-Toxic&show_icons=true&theme=blue-green">                                               </div>
