@@ -1,4 +1,4 @@
-<h1>Hey there, I'm <a target="_blank" href="https://palash2911.github.io/All-About-Me/">Palash Rambhia</a> 🤝</h1></h1>
+<h1>Hey, I'm <a target="_blank" href="https://palash2911.github.io/All-About-Me/">Palash Rambhia</a> 🤝</h1></h1>
 <h1>I am an Android Developer and a Web Designer  📱📱</h1>
 
 ---
