@@ -8,8 +8,6 @@
 </p>
 
 
-
- 
  ---
  
 - 👨‍🎓Hey there, I am Palash Rambhia, currently embarking on my engineering journey from D.Y. Patil College Of Engineering, Akurdi, Pune.<br/>
