@@ -64,7 +64,7 @@
 </a>
 </div>
 
-### Recent Projects 👨‍💻💻
+### Recent Projects 👨‍💻
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Palash2911&repo=Athena&show_icons=true&theme=nightowl"> 
