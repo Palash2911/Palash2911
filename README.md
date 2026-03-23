@@ -106,7 +106,3 @@ Contributed to a graph-based routing algorithm for Interactive Voice Messaging a
 </p>
 
 ---
-
-<p align="center">
-  <i>Currently open to SDE roles in Melbourne, Australia 🇦🇺 — Available full-time from November 2026. No sponsorship required.</i>
-</p>
