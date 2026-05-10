@@ -81,15 +81,15 @@ Contributed to a graph-based routing algorithm for Interactive Voice Messaging a
 - 📄 **"Examining The Performance of NLP Language Models: A Comparison Study"** — ISETE International Conference on AI, ML & Big Data Engineering · *Google Scholar Indexed*
 - 📄 **"Securing Flutter Applications: A Comprehensive Study"** — 7th IEEE International Conference on Computing, Communication, Control and Automation · *IEEE Xplore*
 
----
+<!-- ---
 ## 📈📈📈 Even More Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Palash2911&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Palash2911&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Palash2911&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Palash2911&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 </p>
 
----
+--- -->
 
 ## 🤝 Connect With Me
 
