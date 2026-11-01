@@ -1,6 +1,6 @@
 # Hey, I'm Palash Rambhia 👋
 
-### Technologist · AI Architect · AI Driven SDE · Teaching Associate @ Monash University
+### Technologist · AI Architect · SDE · Teaching Associate @ Monash University
 
 ---
 
